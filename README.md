@@ -1,6 +1,8 @@
+
 # EDA e Análise de Crédito com SQL
+
  <img src="images/project3.jpeg" alt="Uma bela paisagem" width="1000" height="500" title="Clique para ampliar">
- <h2>1. Introdução</h2>
+ <h2>1.0 Introdução</h2>
 <P>No cenário atual de mercado, instituições financeiras enfrentam desafios significativos para entender e atender melhor seus clientes, otimizando ofertas de produtos e serviços de crédito. Este projeto visa realizar uma análise detalhada dos dados de crédito dos clientes utilizando ferramentas e técnicas de SQL, com o objetivo de identificar padrões e gerar insights valiosos.</P>
  
 
@@ -25,7 +27,7 @@
   <li><strong>valor_transacoes_12m</strong>: valor das transações dos últimos 12 meses</li>
   <li><strong>qtd_transacoes_12m</strong>: quantidade de transações dos últimos 12 meses</li>
 </ul>
-<strong>Ferramentas Utilizadas:</strong>
+<strong>2.1 Ferramentas Utilizadas:</strong>
 
 <strong>Dataset:</strong> O dataset está disponível em um endereço do GitHub.
 <p><strong>Armazenamento:</strong> O dataset foi inserido no AWS S3 Bucket da AWS Amazon.</p>
@@ -35,15 +37,18 @@
 
 
 <h3>3.0 Bibliotecas Python Utilizadas</h3>
-<h3> Manipulação de dados</h3>
-<img src="images/img_python (1).svg" alt="Uma bela paisagem" width="75" height="25" title="img_pandas(1)">
-<img src="images/img_numpy (2).svg" alt="Uma bela paisagem" width="75" height="25" title="img_pandas(1)">
-<img src="images/img_pandas (2).svg" alt="Uma bela paisagem" width="75" height="25" title="img_numpy(1)">
-<h3> EDA</h3>
+<h3>3.1 Manipulação de dados</h3>
+<div class="icon-container">
+<img src="images/img_python (1).svg" alt="Uma bela paisagem" width="75" height="25" title="img_python">
+<img src="images/img_numpy (2).svg" alt="Uma bela paisagem" width="75" height="25" title="img_VScode">
+<img src="images/img_pandas (2).svg" alt="Uma bela paisagem" width="75" height="25" title="img_jupyter">
+</div>
+<h3>3.2 EDA</h3>
+<div class="icon-container">
 <img src="images/sql.png" alt="Uma bela paisagem" width="75" height="25" title="SQL">
 <img src="images/s3.png" alt="Uma bela paisagem" width="75" height="25" title="S3">
 <img src="images/Athena.png" alt="Uma bela paisagem" width="75" height="25" title="Athena">
-
+</div>
 <h2>4.0 Conclusão:</h2>
 Essas foram algumas análises extraídas do dataset de crédito.  
 
@@ -59,3 +64,5 @@ Essas foram algumas análises extraídas do dataset de crédito.
 - Não existem clientes com salário anual acima de 60K do sexo feminino
 
 
+</body> 
+</html>
