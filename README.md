@@ -1,5 +1,5 @@
 # EDA e Análise de Crédito com SQL
- <img src="image/project1_2.jpeg.png" alt="Uma bela paisagem" width="1000" height="500" title="Clique para ampliar">
+ <img src="images/project3.jpeg" alt="Uma bela paisagem" width="1000" height="500" title="Clique para ampliar">
  <h2>1. Introdução</h2>
 <P>No cenário atual de mercado, instituições financeiras enfrentam desafios significativos para entender e atender melhor seus clientes, otimizando ofertas de produtos e serviços de crédito. Este projeto visa realizar uma análise detalhada dos dados de crédito dos clientes utilizando ferramentas e técnicas de SQL, com o objetivo de identificar padrões e gerar insights valiosos.</P>
  
@@ -28,27 +28,26 @@
 <strong>Ferramentas Utilizadas:</strong>
 
 <strong>Dataset:</strong> O dataset está disponível em um endereço do GitHub.
-<strong>Armazenamento:</strong> O dataset foi inserido no AWS S3 Bucket da AWS Amazon.
+<p><strong>Armazenamento:</strong> O dataset foi inserido no AWS S3 Bucket da AWS Amazon.</p>
 <p><strong>Consultas:</strong> As consultas SQL foram realizadas utilizando o AWS Athena da AWS Amazon.</p>
 
 <p>A tabela foi criada no <strong>AWS Athena</strong> junto com o <strong>S3 Bucket</strong> com uma versão dos dados disponibilizados em: <a href="https://github.com/andre-marcos-perez/ebac-course-utils/tree/main/dataset">https://github.com/andre-marcos-plistas/ebac-course-utils/tree/main/dataset</a></p>
 
 
-
-
 <h3>3.0 Bibliotecas Python Utilizadas</h3>
 <h3> Manipulação de dados</h3>
-<img src="image/img_numpy(1).svg" alt="Uma bela paisagem" width="75" height="25" title="img_pandas(1)">
-<img src="image/img_pandas(1).svg" alt="Uma bela paisagem" width="75" height="25" title="img_numpy(1)">
+<img src="images/img_python (1).svg" alt="Uma bela paisagem" width="75" height="25" title="img_pandas(1)">
+<img src="images/img_numpy (2).svg" alt="Uma bela paisagem" width="75" height="25" title="img_pandas(1)">
+<img src="images/img_pandas (2).svg" alt="Uma bela paisagem" width="75" height="25" title="img_numpy(1)">
 <h3> EDA</h3>
-<img src="image/img-google-data-studio.svg" alt="Uma bela paisagem" width="75" height="25" title="SQL">
-<img src="image/img-google-data-studio.svg" alt="Uma bela paisagem" width="75" height="25" title="S3">
-<img src="image/img-google-data-studio.svg" alt="Uma bela paisagem" width="75" height="25" title="Athena">
+<img src="images/sql.png" alt="Uma bela paisagem" width="75" height="25" title="SQL">
+<img src="images/s3.png" alt="Uma bela paisagem" width="75" height="25" title="S3">
+<img src="images/Athena.png" alt="Uma bela paisagem" width="75" height="25" title="Athena">
 
 <h2>4.0 Conclusão:</h2>
 Essas foram algumas análises extraídas do dataset de crédito.  
 
-Alguns insights interessantes:
+<strong>Alguns insights interessantes:</strong>
 
 - A maior parte dos clientes possui renda até 40K
 - A maior parte dos clientes é masculino!
