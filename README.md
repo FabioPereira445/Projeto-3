@@ -26,12 +26,12 @@
   <li><strong>limite_credito</strong>: limite de crédito do cliente</li>
   <li><strong>valor_transacoes_12m</strong>: valor das transações dos últimos 12 meses</li>
   <li><strong>qtd_transacoes_12m</strong>: quantidade de transações dos últimos 12 meses</li>
+ <h3><strong>2.1 Processamento</strong></h3>
 </ul>
-<li><strong>Processamento</strong>:
     <ul>
-      <li>Kaggle Notebook <a href="https://www.kaggle.com/code/fabiopereira445/projeto-3-eda-e-an-lise-de-credito-com-sql">link</a></li>
-    </ul>
-<strong>2.1 Ferramentas Utilizadas:</strong>
+      Kaggle Notebook <a href="https://www.kaggle.com/code/fabiopereira445/projeto-3-eda-e-an-lise-de-credito-com-sql">link</a>
+   
+<h3><strong>2.2 Ferramentas Utilizadas</strong></h3>
 
 <strong>Dataset:</strong> O dataset está disponível em um endereço do GitHub.
 <p><strong>Armazenamento:</strong> O dataset foi inserido no AWS S3 Bucket da AWS Amazon.</p>
