@@ -27,6 +27,10 @@
   <li><strong>valor_transacoes_12m</strong>: valor das transações dos últimos 12 meses</li>
   <li><strong>qtd_transacoes_12m</strong>: quantidade de transações dos últimos 12 meses</li>
 </ul>
+<li><strong>Processamento</strong>:
+    <ul>
+      <li>Kaggle Notebook <a href="https://www.kaggle.com/code/fabiopereira445/projeto-3-eda-e-an-lise-de-credito-com-sql">link</a></li>
+    </ul>
 <strong>2.1 Ferramentas Utilizadas:</strong>
 
 <strong>Dataset:</strong> O dataset está disponível em um endereço do GitHub.
