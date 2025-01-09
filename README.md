@@ -30,6 +30,8 @@
 </ul>
     <ul>
       Kaggle Notebook <a href="https://www.kaggle.com/code/fabiopereira445/projeto-3-eda-e-an-lise-de-credito-com-sql">link</a>
+      <ul>
+      Github Notebook <a href="Notebook/Projeto_3_EDA_e_Análise_de_Credito_com_SQL.ipynb">link</a>
    
 <h3><strong>2.2 Ferramentas Utilizadas</strong></h3>
 
